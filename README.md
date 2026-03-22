@@ -1,1 +1,1 @@
-This code is intended for vex v5 robots ONLY and is not compatable with any other vex version. YOU WILL NEED AN SD CARD. To get started download the latest version and read the READ me in the file it will show how to set it up in you code. 
+This code is intended for vex v5 robots ONLY and is not compatable with any other vex version. YOU WILL NEED AN SD CARD. To get started download the latest version and read the README in the file it will show how to set it up in you code. 
