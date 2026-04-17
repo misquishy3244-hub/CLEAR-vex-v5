@@ -1,0 +1,1 @@
+ put CLEAR.py in the Sd card then just import CLEAR call log.auto_start() in a thread function like this "Thread(CLEAR.log.auto_start)" if using vexcode wrap the import with error handling for an ImportError. If you run into an error the first time of use just restart the program and it should work.
